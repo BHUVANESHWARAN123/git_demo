@@ -1,4 +1,4 @@
-print("git commands")
+print("git easy commands")
 print("revert")
 print("reset")
 print("pull")
